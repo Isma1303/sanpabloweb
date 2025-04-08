@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+    "name": "Inicio",
+    "url": "index.html"
+    },
+    {
+    "name": "Quienes Somos",
+    "url": "quienesSomos.html"
+    },
+    {
+    "name": "Servicios",
+    "url": "servicios.html"
+    },
+    {
+    "name": "Acerca de",
+    "url": "acerca.html"
+    },
+    {
+    "name": "Contacto",
+    "url": "contacto.html"
+    },
+    {
+      "name": "|"
+    },
+    {
+      "name": "login",
+      "url": "",
+      "submenu": [
+        {
+        "name": "Iniciar sesión",
+        "url": "#"
+        },
+        {
+        "name": "Registarse",
+        "url": "#"
+        }
+      ]
+      }
+  ]
+}
